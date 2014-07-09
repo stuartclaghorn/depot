@@ -45,3 +45,5 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'tzinfo-data'
+
+gem 'will_paginate'
